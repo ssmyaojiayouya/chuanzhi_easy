@@ -1,3 +1,4 @@
+```html
 # chuanzhi_easy
 这是跟着黑马程序员做的一个简单版本的传智书城的网页。  
 技术包含：简单的控件布局：css+div，以及简单的JavaScript验证表单提交的数据是否符合规范。  
@@ -27,3 +28,5 @@
 						alert(flag)	  		
 					</script>                  			                			
 
+
+```
